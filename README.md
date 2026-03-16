@@ -1,16 +1,28 @@
-## Hi there 👋
-
+## Hi 👋 I'm Priti Maurya
 <!--
-**pritim1124/pritim1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ BSc IT Student  
+ Passionate about Web Development and Software Development  
+ I love building projects and learning new technologies  
 
-Here are some ideas to get you started:
+ About Me
+-  Currently pursuing: BSc in Information Technology
+-  Interested in Web Development, Backend Development
+-  Goal: To become a Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Skills
+- Frontend: HTML, CSS, JavaScript,React.js(framework),Bootstrap(framework)
+- Backend: Node.js / Python / Next.js
+- Database: MySQL / MongoDB
+- Tools: Git, GitHub, VS Code
+
+  Currently Learning
+- Backend Development
+- APIs
+- Data Structures & Algorithms
+
+Contact Me
+- Email: pritim50133@gmail.com
+- LinkedIn: linkedin.com/in/priti-maurya
+
+Thanks for visiting my profile!
 -->
