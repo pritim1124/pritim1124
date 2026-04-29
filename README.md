@@ -18,7 +18,7 @@
   Currently Learning
 - Backend Development
 - APIs
-- Data Structures & Algorithms
+
 
 Contact Me
 - Email: pritim50133@gmail.com
